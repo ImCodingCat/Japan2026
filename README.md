@@ -590,16 +590,16 @@ This comprehensive guide consolidates insights from 271 travel videos about Japa
 
 For detailed information on specific topics, refer to the categorized folders:
 
-- [`Food-Restaurants/`](../summarization/Food-Restaurants/) - 99 restaurant reviews and food guides
-- [`Attractions-Sightseeing/`](../summarization/Attractions-Sightseeing/) - 57 destination guides
-- [`Transportation-Tips/`](../summarization/Transportation-Tips/) - 31 transport guides
-- [`Budget-Money-Saving/`](../summarization/Budget-Money-Saving/) - 24 cost-saving tips
-- [`Airlines-Flights/`](../summarization/Airlines-Flights/) - 21 flight and airport guides
-- [`Shopping/`](../summarization/Shopping/) - 16 shopping recommendations
-- [`Travel-Regulations/`](../summarization/Travel-Regulations/) - 7 visa and customs guides
-- [`Apps-Technology/`](../summarization/Apps-Technology/) - 6 digital tool guides
-- [`Itineraries/`](../summarization/Itineraries/) - 3 detailed travel plans
-- [`Accommodations/`](../summarization/Accommodations/) - 3 lodging guides
+- [`Food-Restaurants/`](/Food-Restaurants/) - 99 restaurant reviews and food guides
+- [`Attractions-Sightseeing/`](/Attractions-Sightseeing/) - 57 destination guides
+- [`Transportation-Tips/`](/Transportation-Tips/) - 31 transport guides
+- [`Budget-Money-Saving/`](/Budget-Money-Saving/) - 24 cost-saving tips
+- [`Airlines-Flights/`](/Airlines-Flights/) - 21 flight and airport guides
+- [`Shopping/`](/Shopping/) - 16 shopping recommendations
+- [`Travel-Regulations/`](/Travel-Regulations/) - 7 visa and customs guides
+- [`Apps-Technology/`](/Apps-Technology/) - 6 digital tool guides
+- [`Itineraries/`](/Itineraries/) - 3 detailed travel plans
+- [`Accommodations/`](/Accommodations/) - 3 lodging guides
 
 ---
 
