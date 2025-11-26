@@ -1,0 +1,11 @@
+[project]
+name = "japan2026"
+version = "0.1.0"
+description = "AI Summarization from instagram reels, By MDavaP"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "instaloader>=4.15",
+    "requests>=2.31.0",
+]
